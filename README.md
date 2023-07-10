@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekdaszy@gmail.com**
 
-- 📄 Know about my experiences [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-das/)
+- 📄 Know about my experiences [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-das-545014205/)
 
 - ⚡ Fun fact **I am an Introvert⚡**
 
@@ -92,6 +92,6 @@
 
 ## 🌩GitHub Stats  ::
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasishdasz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishdasz&theme=merko&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekdasz&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdasz&theme=merko&hide_border=false" />
 </div>
